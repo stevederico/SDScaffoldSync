@@ -8,7 +8,7 @@
 
 ##**Create a Cloud Syncing Mobile App in 3 minutes**
 
-Building an app that syncs its data in the cloud can be difficult. That's where SDScaffoldSync comes into play. SDScaffoldSync creates a REST endpoint (via Rack-Core-Data) and syncing code (via AFIncremntalStore) for you. SDScaffoldSync also leverages SDScaffoldKit to give you ready-made views for your model objects. 
+Building an app that syncs its data in the cloud can be difficult. That's where `SDScaffoldSync` comes into play. `SDScaffoldSync` creates a REST endpoint (via [Heroku-Core-Data-Buildpack](https://github.com/mattt/heroku-buildpack-core-data)) and syncing code (via [AFIncremntalStore](https://github.com/AFNetworking/AFIncrementalStore)) for you. SDScaffoldSync also leverages SDScaffoldKit to give you ready-made views for your model objects. 
 
 UIKit can be tedious and repeative to build simple CRUD interfaces. SDScaffoldSync is a simple library that provides Create, Read, Update, and Delete views out-of-the-box. Just create your Core Data model, hand it your Entity's name, a field to sort by, and BAM! You you have a cloud syncing app.
 
