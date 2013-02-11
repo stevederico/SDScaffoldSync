@@ -60,6 +60,7 @@ Watch this video for a complete demo -
 10. open http://kAPIBaseURLString/MODELNAMEs in your browser i.e. [http://sleepy-eyrie-2619.herokuapp.com/runs](http://sleepy-eyrie-2619.herokuapp.com/runs)
 11. Run Xcode applciation
 12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think. Thank [@mattt](http://www.twitter.com/stevederico) for the wonderful AFNetworking & AFIncrementalStore.
+[![Twitter image](http://f.cl.ly/items/1X0V1N003j2h192x3J0Z/Screen%20Shot%202013-02-11%20at%2012.48.45%20AM.png)](http://www.twitter.com/stevederico)
 
 ### Common Errors
 * Don't forget to change the build target from Pods. Click Pods next to the Stop button and change to PROJECTNAME, then Run.
