@@ -1,4 +1,4 @@
-## AFNetworking + AFIncrementalStore + SDScaffoldKit = Client/Server App
+## AFNetworking + AFIncrementalStore + SDScaffoldKit = SDScaffoldSync
 
 ![SDScaffoldKit with AFNetworking Template](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)
 
