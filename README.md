@@ -58,7 +58,7 @@ Watch this video for a complete demo -
 ```
 10. Open [http://kAPIBaseURLString/MODELNAMEs](http://sleepy-eyrie-2619.herokuapp.com/runs) in your browser i.e. [http://sleepy-eyrie-2619.herokuapp.com/runs](http://sleepy-eyrie-2619.herokuapp.com/runs)
 11. Build and Run Xcode App
-12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think. 
+12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think. Watch [refactor.tv](http://www.refactor.tv), a podcast with [Sam Soffes](http://www.twitter.com/soffes), where we cover iOS and Open-source projects each week.
 [![Twitter image](http://f.cl.ly/items/1X0V1N003j2h192x3J0Z/Screen%20Shot%202013-02-11%20at%2012.48.45%20AM.png)](http://www.twitter.com/stevederico)
 
 ### Common Errors
