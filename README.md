@@ -2,7 +2,23 @@
 
 ![SDScaffoldKit with AFNetworking Template](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)
 
-These are the exact steps needed to take to create an syncing client-server app in 3 minutes. Watch this video for a complete demo. You will need to have CocoaPods Installed on your machine.
+=======
+**Create a Cloud Syncing Mobile App in 3 minutes**
+
+Building an app that syncs its data in the cloud can be difficult. That's where SDScaffoldSync comes into play. SDScaffoldSync creates a REST endpoint (via Rack-Core-Data) and syncing code (via AFIncremntalStore) for you. SDScaffoldSync also leverages SDScaffoldKit to give you ready-made views for your model objects. 
+
+UIKit can be tedious and repeative to build simple CRUD interfaces. SDScaffoldSync is a simple library that provides Create, Read, Update, and Delete views out-of-the-box. Just create your Core Data model, hand it your Entity's name, a field to sort by, and BAM! You you have a cloud syncing app.
+
+SDScaffoldSync is meant to save you time so you can focus on what matters, application logic. The library is still a little green behind the ears and I would love to see any issues or pull request you may have. There is a sample project if you have any question on how it all works.
+
+Overall, this is a great way to get your project up and running then you can go from there.
+
+## This Project Would Not Be Possible Without Mattt Thompson. 
+> SDScaffoldSync is a combination of SDScaffoldKit, AFNetworking, and AFIncrementalStore using the Heroku-Core-Data-Buildback. Without these contributions from Mattt, none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
+
+## Getting Started
+These are the exact steps needed to take to create an syncing client-server app in 3 minutes. You will need to have CocoaPods Installed on your machine.
+Watch this video for a complete demo - 
 
 1. Install [CocoaPods](http://cocoapods.org)
 2. Create New Project with [AFNetworking Xcode Template](https://github.com/stevederico/Xcode-Project-Templates)
