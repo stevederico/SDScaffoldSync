@@ -3,7 +3,10 @@
 ![SDScaffoldKit with AFNetworking Template](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)
 
 =======
-**Create a Cloud Syncing Mobile App in 3 minutes**
+## This Project Would Not Be Possible Without [Mattt Thompson](http://www.github.com/mattt). 
+> SDScaffoldSync is a combination of [SDScaffoldKit](http://www.github.com/stevederico/sdscaffoldkit), [AFNetworking](https://github.com/AFNetworking/AFNetworking), and [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) using the [Heroku-Core-Data-Buildback](https://github.com/mattt/heroku-buildpack-core-data). Without these contributions from [Mattt](http://www.github.com/mattt), none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
+
+##**Create a Cloud Syncing Mobile App in 3 minutes**
 
 Building an app that syncs its data in the cloud can be difficult. That's where SDScaffoldSync comes into play. SDScaffoldSync creates a REST endpoint (via Rack-Core-Data) and syncing code (via AFIncremntalStore) for you. SDScaffoldSync also leverages SDScaffoldKit to give you ready-made views for your model objects. 
 
@@ -13,8 +16,6 @@ SDScaffoldSync is meant to save you time so you can focus on what matters, appli
 
 Overall, this is a great way to get your project up and running then you can go from there.
 
-## This Project Would Not Be Possible Without [Mattt Thompson](http://www.github.com/mattt). 
-> SDScaffoldSync is a combination of [SDScaffoldKit](http://www.github.com/stevederico/sdscaffoldkit), [AFNetworking](https://github.com/AFNetworking/AFNetworking), and [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) using the [Heroku-Core-Data-Buildback](https://github.com/mattt/heroku-buildpack-core-data). Without these contributions from [Mattt](http://www.github.com/mattt), none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
 
 ## Getting Started
 These are the exact steps needed to take to create an syncing client-server app in 3 minutes. You will need to have CocoaPods Installed on your machine.
