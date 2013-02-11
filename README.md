@@ -16,7 +16,8 @@ SDScaffoldSync is meant to save you time so you can focus on what matters, appli
 
 Overall, this is a great way to get your project up and running then you can go from there.
 
-## [Watch Screencast Video -> https://vimeo.com/59387915](https://vimeo.com/59387915)
+
+## [Watch Screencast Video: https://vimeo.com/59387915](https://vimeo.com/59387915)
 
 
 ## Getting Started
@@ -60,7 +61,7 @@ Watch this video for a complete demo -
 12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think. Thank [@mattt](http://www.twitter.com/stevederico) for the wonderful AFNetworking & AFIncrementalStore.
 
 Common Errors
-* Don't forget to change the build target from Pods. Click Pods next to the Stop button and change to PROJECTNAME, then build and Run.
+* Don't forget to change the build target from Pods. Click Pods next to the Stop button and change to PROJECTNAME, then Run.
 ![Bad](http://f.cl.ly/items/1t18043V3x2p2g1K1e2o/Screen%20Shot%202013-02-10%20at%204.13.50%20PM.png)
 ![Good]( http://f.cl.ly/items/29060u3d1j2x323w3z2w/Screen%20Shot%202013-02-10%20at%204.13.59%20PM.png)
 
