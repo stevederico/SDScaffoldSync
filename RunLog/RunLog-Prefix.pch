@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'RunLog' target in the 'RunLog' project
+//
+
+#ifdef __OBJC__
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+#endif
