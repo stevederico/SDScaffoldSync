@@ -13,8 +13,8 @@ SDScaffoldSync is meant to save you time so you can focus on what matters, appli
 
 Overall, this is a great way to get your project up and running then you can go from there.
 
-## This Project Would Not Be Possible Without Mattt Thompson. 
-> SDScaffoldSync is a combination of SDScaffoldKit, AFNetworking, and AFIncrementalStore using the Heroku-Core-Data-Buildback. Without these contributions from Mattt, none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
+## This Project Would Not Be Possible Without [Mattt Thompson](http://www.github.com/mattt). 
+> SDScaffoldSync is a combination of [SDScaffoldKit](http://www.github.com/stevederico/sdscaffoldkit), [AFNetworking](https://github.com/AFNetworking/AFNetworking), and [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) using the [Heroku-Core-Data-Buildback](https://github.com/mattt/heroku-buildpack-core-data). Without these contributions from [Mattt](http://www.github.com/mattt), none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
 
 ## Getting Started
 These are the exact steps needed to take to create an syncing client-server app in 3 minutes. You will need to have CocoaPods Installed on your machine.
