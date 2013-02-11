@@ -33,7 +33,7 @@ Watch this video for a complete demo -
 5. Run `git commit -a -m "first commit"`
 5. Run `heroku create --buildpack git://github.com/mattt/heroku-buildpack-core-data.git`
 6. Run `git push heroku master`
-7. Copy random-name-here.herokuapp.com url from terminal, set `kAPIBaseURLString` in `PROJECTNAMEAPIClient.m` to random-name-here.herokuapp.com url.
+7. Copy `random-name-here.herokuapp.com` url from terminal, set `kAPIBaseURLString` in `PROJECTNAMEAPIClient.m` to `random-name-here.herokuapp.com` url.
 8. Add [SDScaffoldKit](http://www.github.com/stevederico/SDScaffoldkit) to project. Then add `#import "SDScaffoldKit.h"` to `PROJECTNAME-Prefix.pch`
 9. Create `SDScaffoldIndexViewController` instance and set it to the `rootViewController` of the main `navigationController`.
 10. App Delegate should look like this:
@@ -56,9 +56,10 @@ Watch this video for a complete demo -
     return YES;
 }
 ```
-10. Open [http://kAPIBaseURLString/MODELNAMEs](http://sleepy-eyrie-2619.herokuapp.com/runs) in your browser i.e. [http://sleepy-eyrie-2619.herokuapp.com/runs](http://sleepy-eyrie-2619.herokuapp.com/runs)
+10. Open [http://random-name-here.herokuapp.com/MODELNAMEs](http://sleepy-eyrie-2619.herokuapp.com/runs) in your browser i.e. [http://sleepy-eyrie-2619.herokuapp.com/runs](http://sleepy-eyrie-2619.herokuapp.com/runs)
 11. Build and Run Xcode App
-12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think. 
+12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think.  
+
 [![Twitter image](http://f.cl.ly/items/1X0V1N003j2h192x3J0Z/Screen%20Shot%202013-02-11%20at%2012.48.45%20AM.png)](http://www.twitter.com/stevederico)
 13. Watch [refactor.tv](http://www.refactor.tv), a podcast with [Sam Soffes](http://www.twitter.com/soffes), where we cover iOS and Open-source projects each week.
 
@@ -68,10 +69,10 @@ Watch this video for a complete demo -
 ![Good]( http://f.cl.ly/items/29060u3d1j2x323w3z2w/Screen%20Shot%202013-02-10%20at%204.13.59%20PM.png)
 
 ### Legend
-* PROJECTNAME - Full name of the Project i.e. "RunnerLog"
-* ENTITYNAME - Core Data Model Entity Name i.e. "Run"
-* PROPERTY - An attribute of the new Entity i.e "summary"
-* random-name-here.herokuapp.com url - Heroku webserver url i.e. http://sleepy-eyrie-2619.herokuapp.com
+* `PROJECTNAME` - Full name of the Project i.e. "RunLog"
+* `ENTITYNAME` - Core Data Model Entity Name i.e. "Run"
+* `PROPERTY` - An attribute of the new Entity i.e "summary"
+* `random-name-here.herokuapp.com` url - Heroku webserver url i.e. http://sleepy-eyrie-2619.herokuapp.com
  
 ### Thanks
-* Thanks to [@mattt](http://www.twitter.com/mattt) for the wonderful AFNetworking & AFIncrementalStore.
+* Thanks to [@mattt](http://www.github.com/mattt) for all his wonderful work.
