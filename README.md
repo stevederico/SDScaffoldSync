@@ -61,12 +61,12 @@ Watch this video for a complete demo -
 11. Run Xcode applciation
 12. Follow [@stevederico](http://www.twitter.com) on twitter, tell me what you think. Thank [@mattt](http://www.twitter.com/stevederico) for the wonderful AFNetworking & AFIncrementalStore.
 
-Common Errors
+### Common Errors
 * Don't forget to change the build target from Pods. Click Pods next to the Stop button and change to PROJECTNAME, then Run.
 ![Bad](http://f.cl.ly/items/1t18043V3x2p2g1K1e2o/Screen%20Shot%202013-02-10%20at%204.13.50%20PM.png)
 ![Good]( http://f.cl.ly/items/29060u3d1j2x323w3z2w/Screen%20Shot%202013-02-10%20at%204.13.59%20PM.png)
 
-LEGEND
+### Legend
 * PROJECTNAME - Full name of the Project i.e. "RunnerLog"
 * ENTITYNAME - Core Data Model Entity Name i.e. "Run"
 * PROPERTY - An attribute of the new Entity i.e "summary"
