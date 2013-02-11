@@ -1,10 +1,10 @@
 ## AFNetworking + AFIncrementalStore + SDScaffoldKit = SDScaffoldSync
 
-[![SDScaffoldKit with AFNetworking Template](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)](http://www.vimeo.com)
+[![SDScaffoldSync](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)](https://vimeo.com/59387915)
 
 =======
 ## This Project Would Not Be Possible Without [Mattt Thompson](http://www.github.com/mattt). 
-> SDScaffoldSync is a combination of [SDScaffoldKit](http://www.github.com/stevederico/sdscaffoldkit), [AFNetworking](https://github.com/AFNetworking/AFNetworking), and [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) using the [Heroku-Core-Data-Buildback](https://github.com/mattt/heroku-buildpack-core-data). Without these contributions from [Mattt](http://www.github.com/mattt), none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
+> SDScaffoldSync is a combination of [SDScaffoldKit](http://www.github.com/stevederico/sdscaffoldkit), [AFNetworking](https://github.com/AFNetworking/AFNetworking), and [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) using the [Heroku-Core-Data-Buildback](https://github.com/mattt/heroku-buildpack-core-data). SDScaffoldSync was inspired by [Build an iOS App in 10 Minutes with AFIncrementalStore and the Core Data Buildpack](http://mobile.heroku.com) Without these contributions from [Mattt](http://www.github.com/mattt), none of this would be possible. I highly encourage everyone to follow & thank [Mattt Thompson](http://www.github.com/mattt) for his series of open source libraries covering the mission-critical aspects of an iOS app's infrastructure. Be sure to check out its sister projects: [GroundControl](https://github.com/mattt/GroundControl), [SkyLab](https://github.com/mattt/SkyLab), [CargoBay](https://github.com/mattt/CargoBay), and [houston](https://github.com/mattt/houston).
 
 ##**Create a Cloud Syncing Mobile App in 3 minutes**
 
