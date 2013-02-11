@@ -8,13 +8,15 @@
 
 ##**Create a Cloud Syncing Mobile App in 3 minutes**
 
-Building an app that syncs its data in the cloud can be difficult. That's where `SDScaffoldSync` comes into play. `SDScaffoldSync` creates a REST endpoint (via [Heroku-Core-Data-Buildpack](https://github.com/mattt/heroku-buildpack-core-data)) and syncing code (via [AFIncremntalStore](https://github.com/AFNetworking/AFIncrementalStore)) for you. SDScaffoldSync also leverages SDScaffoldKit to give you ready-made views for your model objects. 
+Building an app that syncs its data in the cloud can be difficult. That's where `SDScaffoldSync` comes into play. `SDScaffoldSync` creates a REST endpoint (via [Heroku-Core-Data-Buildpack](https://github.com/mattt/heroku-buildpack-core-data)) and syncing code (via [AFIncremntalStore](https://github.com/AFNetworking/AFIncrementalStore)) for you. SDScaffoldSync also leverages [SDScaffoldKit](http://www.github.com/stevederico/SDScaffoldKit) to give you ready-made views for your model objects. 
 
 UIKit can be tedious and repeative to build simple CRUD interfaces. SDScaffoldSync is a simple library that provides Create, Read, Update, and Delete views out-of-the-box. Just create your Core Data model, hand it your Entity's name, a field to sort by, and BAM! You you have a cloud syncing app.
 
-SDScaffoldSync is meant to save you time so you can focus on what matters, application logic. The library is still a little green behind the ears and I would love to see any issues or pull request you may have. There is a sample project if you have any question on how it all works.
+SDScaffoldSync is meant to save you time so you can focus on what matters, application logic. The library is still a little green behind the ears and I would love to see any issues or pull request you may have. There is a sample project if you have any question on how it all works. 
 
 Overall, this is a great way to get your project up and running then you can go from there.
+
+## [Watch Screencast Video -> https://vimeo.com/59387915](https://vimeo.com/59387915)
 
 
 ## Getting Started
