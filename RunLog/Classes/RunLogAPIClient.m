@@ -1,7 +1,7 @@
 #import "RunLogAPIClient.h"
 #import "AFJSONRequestOperation.h"
 
-static NSString * const kRunLogAPIBaseURLString = @"<# API Base URL #>";
+static NSString * const kRunLogAPIBaseURLString = @"http://quiet-beach-9836.herokuapp.com";
 
 @implementation RunLogAPIClient
 

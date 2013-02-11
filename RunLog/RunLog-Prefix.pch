@@ -3,6 +3,7 @@
 //
 
 #ifdef __OBJC__
+    #import "SDScaffoldKit.h"
     #import <SystemConfiguration/SystemConfiguration.h>
     #import <MobileCoreServices/MobileCoreServices.h>
     #import <UIKit/UIKit.h>
