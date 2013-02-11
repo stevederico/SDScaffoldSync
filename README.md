@@ -18,6 +18,7 @@ Overall, this is a great way to get your project up and running then you can go 
 
 
 ## [Watch Screencast Video: https://vimeo.com/59387915](https://vimeo.com/59387915)
+[![SDScaffoldSync](http://f.cl.ly/items/472Z050s141n1G3D0r36/SDScaffoldSyncVideoPlayer.png)](https://vimeo.com/59387915)
 
 
 ## Getting Started
