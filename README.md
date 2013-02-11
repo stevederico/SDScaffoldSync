@@ -1,6 +1,6 @@
 ## AFNetworking + AFIncrementalStore + SDScaffoldKit = SDScaffoldSync
 
-[![SDScaffoldSync](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)](https://vimeo.com/59425164)
+[![SDScaffoldSync](http://f.cl.ly/items/102O2w052F3V0K3d3B1x/Screen%20Shot%202013-02-10%20at%207.09.11%20PM.png)](https://vimeo.com/59389685)
 
 =======
 ## This Project Would Not Be Possible Without [Mattt Thompson](http://www.github.com/mattt). 
@@ -11,13 +11,13 @@
 Building an app that syncs its data in the cloud can be difficult. That's where `SDScaffoldSync` comes into play. `SDScaffoldSync` creates a REST endpoint (via [Heroku-Core-Data-Buildpack](https://github.com/mattt/heroku-buildpack-core-data)) and syncing code (via [AFIncremntalStore](https://github.com/AFNetworking/AFIncrementalStore)) for you. SDScaffoldSync also leverages [SDScaffoldKit](http://www.github.com/stevederico/SDScaffoldKit) to give you ready-made views for your model objects. 
 Just create your Core Data model, hand SDScaffoldKit your Entity's name, a field to sort by, and BAM! You you have a cloud syncing app.
 
-SDScaffoldSync is meant to save you time so you can focus on what matters, application logic. The library is still a little green behind the ears and I would love to see any issues or pull request you may have. There is a sample project and [screencast](https://vimeo.com/59425164) if you have any question on how it all works. 
+SDScaffoldSync is meant to save you time so you can focus on what matters, application logic. The library is still a little green behind the ears and I would love to see any issues or pull request you may have. There is a sample project and [screencast](https://vimeo.com/59389685) if you have any question on how it all works. 
 
 Overall, this is a great way to get your project up and running then you can go from there.
 
 
-## [Watch Screencast Video: https://vimeo.com/59425164](https://vimeo.com/59425164)
-[![SDScaffoldSync](http://f.cl.ly/items/472Z050s141n1G3D0r36/SDScaffoldSyncVideoPlayer.png)](https://vimeo.com/59425164)
+## [Watch Screencast Video: https://vimeo.com/59389685](https://vimeo.com/59389685)
+[![SDScaffoldSync](http://f.cl.ly/items/472Z050s141n1G3D0r36/SDScaffoldSyncVideoPlayer.png)](https://vimeo.com/59389685)
 
 
 ## Getting Started
